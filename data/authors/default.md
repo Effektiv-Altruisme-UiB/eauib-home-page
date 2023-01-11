@@ -1,16 +1,10 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Effektiv Altruisme UiB
+avatar: /static/images/eauib_oxford.jpg
+occupation: Lokallag av EA-bevegelsen ved
+company: Universitetet i Bergen
+email: eauib@effektivaltruisme.no
+linkedin: https://www.linkedin.com/company/effektiv-altruisme-uib/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Effektiv Altruisme UiB gir studenter i Bergen kunnskap, motivasjon, og mulighet til å gjøre en størst mulig positiv forskjell i verden. Med oss kan du lære om et mangfoldig utvalg av globale saksområder som preger dagens verden. Vi består av en gjeng med studenter i et engasjerende og inkluderende sosialt miljø.
