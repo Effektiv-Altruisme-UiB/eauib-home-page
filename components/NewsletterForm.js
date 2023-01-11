@@ -47,7 +47,7 @@ const NewsletterForm = ({ title = 'Meld deg på nyhetsbrevet' }) => {
             className="w-72 rounded-md px-4 focus:border-transparent focus:outline-none focus:ring-2 focus:ring-primary-600 dark:bg-black"
             id="email-input"
             name="email"
-            placeholder={subscribed ? "You're subscribed !  🎉" : 'Epost-addresse'}
+            placeholder={subscribed ? 'Epost registrert! 🎉' : 'Epost-addresse'}
             ref={inputEl}
             required
             type="email"
@@ -62,7 +62,7 @@ const NewsletterForm = ({ title = 'Meld deg på nyhetsbrevet' }) => {
             type="submit"
             disabled={subscribed}
           >
-            {subscribed ? 'Thank you!' : 'Send inn'}
+            {subscribed ? 'Takk!' : 'Send inn'}
           </button>
         </div>
       </form>
