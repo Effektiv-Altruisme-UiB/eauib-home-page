@@ -4,6 +4,9 @@ import FullCalendar from '@fullcalendar/react'
 import dayGridPlugin from '@fullcalendar/daygrid'
 import googleCalendarPlugin from '@fullcalendar/google-calendar'
 
+const googleCalendarApiKey = process.env.GOOGLE_CALENDAR_API
+console.log(googleCalendarApiKey)
+
 export default function Projects() {
   return (
     <>
@@ -23,7 +26,7 @@ export default function Projects() {
         <div className="container py-12">
           <FullCalendar
             plugins={[dayGridPlugin, googleCalendarPlugin]}
-            googleCalendarApiKey={process.env.GOOGLE_CALENDAR_API}
+            googleCalendarApiKey={googleCalendarApiKey}
             initialView="dayGridMonth"
             eventSources={{ googleCalendarId: 'eauib@effektivaltruisme.no' }}
           />
