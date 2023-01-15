@@ -4,7 +4,7 @@ import FullCalendar from '@fullcalendar/react'
 import dayGridPlugin from '@fullcalendar/daygrid'
 import googleCalendarPlugin from '@fullcalendar/google-calendar'
 
-const googleCalendarApiKey = process.env.GOOGLE_CALENDAR_API
+const googleCalendarApiKey = process.env.NEXT_PUBLIC_GOOGLE_CAL_API
 console.log(googleCalendarApiKey)
 
 export default function Projects() {
