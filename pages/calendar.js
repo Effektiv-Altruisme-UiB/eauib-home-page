@@ -1,5 +1,8 @@
 import siteMetadata from '@/data/siteMetadata'
 import { PageSEO } from '@/components/SEO'
+import FullCalendar from '@fullcalendar/react'
+import dayGridPlugin from '@fullcalendar/daygrid'
+import googleCalendarPlugin from '@fullcalendar/google-calendar'
 
 export default function Projects() {
   return (
@@ -18,13 +21,12 @@ export default function Projects() {
           </p>
         </div>
         <div className="container py-12">
-          <iframe
-            src="https://calendar.google.com/calendar/embed?src=eauib%40effektivaltruisme.no&ctz=Europe%2FBerlin"
-            width="800"
-            height="600"
-            frameBorder="0"
-            scrolling="no"
-          ></iframe>
+          <FullCalendar
+            plugins={[dayGridPlugin, googleCalendarPlugin]}
+            googleCalendarApiKey={process.env.GOOGLE_CALENDAR_API}
+            initialView="dayGridMonth"
+            eventSources={{ googleCalendarId: 'eauib@effektivaltruisme.no' }}
+          />
         </div>
       </div>
     </>
