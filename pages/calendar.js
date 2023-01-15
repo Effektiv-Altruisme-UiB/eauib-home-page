@@ -17,7 +17,7 @@ export default function Projects() {
             Kalender
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Her er en oversikt over alle våre arrangementer (noen krever påmelding)
+            Oversikt over alle våre arrangementer (noen krever påmelding)
           </p>
         </div>
         <div className="container py-12">
