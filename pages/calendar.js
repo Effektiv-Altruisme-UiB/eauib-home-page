@@ -5,7 +5,6 @@ import dayGridPlugin from '@fullcalendar/daygrid'
 import googleCalendarPlugin from '@fullcalendar/google-calendar'
 
 const googleCalendarApiKey = process.env.NEXT_PUBLIC_GOOGLE_CAL_API
-console.log(googleCalendarApiKey)
 
 export default function Projects() {
   return (
@@ -20,7 +19,7 @@ export default function Projects() {
             Kalender
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Oversikt over alle våre arrangementer (noen krever påmelding)
+            En oversikt over våre arrangementer (noen krever påmelding)
           </p>
         </div>
         <div className="container py-12">

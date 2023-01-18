@@ -1,19 +1,15 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Introkurs i effektiv altruisme',
+    description: `Lær om grunnprinsippene bak effektiv altruisme, noen av verdens mest presserende problemer og hvilke steg du kan ta for å utgjøre en størst mulig positiv forskjell.`,
+    imgSrc: '/static/images/students.jpg',
+    href: '/intro',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Hytteturer',
+    description: `Bli med på hyttetur for å bli bedre kjent med gjengen vår, gå fjellturer, nyte hjemmelagde måltider og delta på programmer som ruster deg til å gjøre godt i verden.`,
+    imgSrc: '/static/images/cabin.jpg',
+    href: '/blog/hyttetur-2022',
   },
 ]
 

@@ -1,5 +1,6 @@
 const siteMetadata = {
   title: 'Effektiv Altruisme UiB',
+  author: 'Effektiv Altruisme UiB',
   headerTitle: 'Effektiv Altruisme UiB',
   description: 'Lær om hva vi har drevet med i det siste',
   language: 'en-us',
