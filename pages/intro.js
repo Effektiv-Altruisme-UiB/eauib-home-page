@@ -16,11 +16,13 @@ export default function Intro() {
             Introkurs i effektiv altruisme
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Et 6-ukers kurs med ukentlige diskusjonsmøter om globale utfordringer og effektiv
-            altruisme
+            Et 7-ukers kurs med ukentlige diskusjonsmøter om globale utfordringer og hvordan man kan
+            bidra til å løse dem
           </p>
-          <p className="text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner onsdag 15. februar (søkndadsfrist 9. februar)
+        </div>
+        <div className="container py-12">
+          <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
+            Neste kurs begynner onsdag 15. februar 2023
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button
@@ -30,6 +32,36 @@ export default function Intro() {
               Meld deg på her
             </button>
           </form>
+        </div>
+        <div className="container py-12">
+          <h2 className="pb-4 text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-5xl md:leading-14">
+            Om kurset
+          </h2>
+          <p className="pb-4 text-lg leading-7 text-black dark:text-white">
+            Introkurset vårt er et <strong>gratis 7-ukers program</strong> som kombinerer
+            selvstudie, små gruppediskusjoner, diverse oppgaver og personlig veiledning. I løpet av
+            kurset utforskes noen av vår tids største globale utfordringer og hvordan vi kan
+            håndtere dem.
+            <br />
+            <br />
+            Kurset består av <strong>ukentlige møter på 1,5 timer</strong> på et sentralt sted i
+            Bergen. Diskusjonene foregår i grupper på 3-5 deltakere sammen med en
+            diskusjonsveileder. Kurset trekker på kunnskap fra blant annet økonomi, filosofi,
+            statistikk, psykologi, bioteknologi og datavitenskap. Det er åpnet for alle, men primært
+            siktet mot studenter ved UiB.
+            <br />
+            <br />
+            Kurset er tilpasset folk som ikke allerede har kjennskap til effektiv altruisme men som
+            har interesse av å ha større positiv innvirkning på verden. For å delta bør du: Være
+            villig til å gjøre <strong>ca. 2 timer ukentlig selvstudie før hvert møte</strong>; Være
+            bestemt om å delta på alle 7 møtene (med unntak av uventede hendelser); Være
+            entusiastisk om å gjøre en positiv endring i verden; Ha et åpent sinn og respektere
+            andres perspektiver.
+            <br />
+            <br />
+            Ved gjennomført kurs vil du motta et digitalt sertifikat. Vi tilbyr også enkel
+            matservering og drikke på hvert møte.
+          </p>
         </div>
         <div className="container py-12">
           <h2 className="pb-4 text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-5xl md:leading-14">
@@ -49,7 +81,7 @@ export default function Intro() {
         </div>
         <div className="container py-12">
           <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner onsdag 15. februar (søkndadsfrist 9. februar)
+            Neste kurs begynner onsdag 15. februar 2023
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button

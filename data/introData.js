@@ -1,15 +1,15 @@
 const introData = [
   {
-    title: 'Rasjonalitet',
-    description: `Lær metoder som hjelper deg med å tenkte mer rasjonelt og gjøre bedre beslutninger under usikkerhet.`,
-    imgSrc: '/static/images/intro/chess.jpg',
-    // href: '/intro',
-  },
-  {
     title: 'Effektiv bistand',
     description: `Hvilke bistandsorganisasjoner er mest effektive? Lær om hvordan forskjellige bistandsorganisasjoner kan sammenlignes.`,
     imgSrc: '/static/images/intro/vaccine.jpg',
     //href: '/intro',
+  },
+  {
+    title: 'Rasjonalitet',
+    description: `Lær metoder som hjelper deg med å tenkte mer rasjonelt og gjøre bedre beslutninger under usikkerhet.`,
+    imgSrc: '/static/images/intro/chess.jpg',
+    // href: '/intro',
   },
   {
     title: 'Moralfilosofi',
