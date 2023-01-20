@@ -17,7 +17,7 @@ Vi er en del av det norske EA-miljøet: https://effektivaltruisme.no/uib
 
 ## Hva er effektiv altruisme?
 
-Målet med effektiv altruisme er å finne de mest effektive måtene å hjelpe andre eller på annet vis gjøre verden et bedre sted. For å oppnå dette best mulig sikter mange i EA-miljøet på å følge en rasjonell tankegang med fokus på bruk av evidens.
+Målet med effektiv altruisme er å finne de mest effektive måtene å hjelpe andre eller på annet vis gjøre verden et bedre sted. For å oppnå dette best mulig sikter mange i EA-miljøet på å følge en rasjonell og upartisk tankegang med fokus på bruk av evidens.
 
 Det globale EA-miljøet er kontinuerlig på jakt etter hvordan man kan få mest igjen for de ressursene som brukes på å gjøre godt i verden. Høres dette spennende ut? Da vil vi gjerne ha deg med på laget!
 
