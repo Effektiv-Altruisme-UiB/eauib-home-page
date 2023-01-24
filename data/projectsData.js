@@ -18,8 +18,14 @@ const projectsData = [
     href: '/blog/hyttetur-2022',
   },
   {
+    title: 'Bokklubber',
+    description: `Hvert semester kjører vi flere runder bokklubber som du kan delta på. Vi ordner bøkene, lokaler og enkel servering, så alt du trenger å gjøre er å melde deg på en gruppe.`,
+    imgSrc: '/static/images/reading-group.jpg',
+    href: 'https://airtable.com/shr09xMeFn5rZizfO',
+  },
+  {
     title: 'Diverse sosialt',
-    description: `Vi møtes jevnlig for diverse sosialt som middager, fjellturer, quiz og brettspill! Vi har et aktivt sosialt miljø av både lokale studenter, utvekslingsstudenter og folk i arbeid!`,
+    description: `Vi møtes jevnlig for diverse sosialt som middager, fjellturer, quiz og brettspill. Vi har et aktivt sosialt miljø av både lokale studenter, utvekslingsstudenter og folk i arbeid.`,
     imgSrc: '/static/images/park_social.jpg',
   },
 ]
