@@ -53,8 +53,8 @@ export default function Intro() {
             <br />
             Kurset er tilpasset folk som ikke allerede har kjennskap til effektiv altruisme men som
             har interesse av å ha større positiv innvirkning på verden. For å delta bør du: Være
-            villig til å gjøre <strong>ca. 2 timer ukentlig selvstudie før hvert møte</strong>; Være
-            bestemt på å delta på alle 7 møtene (med unntak av uventede hendelser); Være
+            villig til å gjøre <strong>ca. 1-2 timer ukentlig selvstudie før hvert møte</strong>;
+            Være bestemt på å delta på alle 7 møtene (med unntak av uventede hendelser); Være
             entusiastisk om å gjøre en positiv endring i verden; Ha et åpent sinn og respektere
             andres perspektiver.
             <br />
