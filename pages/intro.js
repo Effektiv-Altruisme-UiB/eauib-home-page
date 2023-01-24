@@ -22,7 +22,7 @@ export default function Intro() {
         </div>
         <div className="container py-12">
           <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner onsdag 15. februar 2023
+            Neste kurs begynner i uke 7 (mellom 13. og 16. februar)
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button
@@ -64,7 +64,7 @@ export default function Intro() {
           </p>
         </div>
         <div className="container py-12">
-          <h2 className="pb-4 text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-5xl md:leading-14">
+          <h2 className="pb-6 text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-5xl md:leading-14">
             Hva lærer du?
           </h2>
           <div className="-m-4 flex flex-wrap">
@@ -78,10 +78,21 @@ export default function Intro() {
               />
             ))}
           </div>
+          <p className="pb-4 text-lg leading-7 text-black dark:text-white">
+            <br />
+            Innholdet av kurset er basert på "The Effective Altruism Handbook" som kan finnes her:
+            {` `}
+            <a
+              className="text-blue-500 hover:text-blue-700"
+              href="https://forum.effectivealtruism.org/handbook"
+            >
+              https://forum.effectivealtruism.org/handbook
+            </a>
+          </p>
         </div>
         <div className="container py-12">
           <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner onsdag 15. februar 2023
+            Neste kurs begynner i uke 7 (mellom 13. og 16. februar)
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button
