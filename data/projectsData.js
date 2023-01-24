@@ -8,7 +8,7 @@ const projectsData = [
   {
     title: 'Turer til EAG-konferanser',
     description: `Vi drar i blant til EA Global-konferanser som byr på en intensiv helg med foredrag, workshops og muligheter for nettverksbygging.`,
-    imgSrc: '/static/images/ea_global.jpg',
+    imgSrc: '/static/images/ea-global.jpg',
     href: '/blog/eagx-oxford',
   },
   {
