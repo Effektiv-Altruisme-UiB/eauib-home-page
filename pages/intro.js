@@ -29,7 +29,7 @@ export default function Intro() {
               className={`w-3/5 rounded-md bg-primary-500 py-4 px-4 font-medium text-white hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black dark:hover:bg-primary-400`}
               type="submit"
             >
-              Meld deg på her
+              Meld deg på (frist 10. februar)
             </button>
           </form>
         </div>
@@ -99,7 +99,7 @@ export default function Intro() {
               className={`w-3/5 rounded-md bg-primary-500 py-4 px-4 font-medium text-white hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black dark:hover:bg-primary-400`}
               type="submit"
             >
-              Meld deg på her
+              Meld deg på (frist 10. februar)
             </button>
           </form>
         </div>
