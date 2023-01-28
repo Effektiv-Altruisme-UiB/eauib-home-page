@@ -16,7 +16,7 @@ export default function Intro() {
             Introkurs i effektiv altruisme
           </h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Et 7-ukers kurs med ukentlige diskusjonsmøter om globale utfordringer og hvordan man kan
+            Et 6-ukers kurs med ukentlige diskusjonsmøter om globale utfordringer og hvordan man kan
             bidra til å løse dem
           </p>
         </div>
@@ -38,7 +38,7 @@ export default function Intro() {
             Om kurset
           </h2>
           <p className="pb-4 text-lg leading-7 text-black dark:text-white">
-            Introkurset vårt er et <strong>gratis 7-ukers program</strong> som kombinerer
+            Introkurset vårt er et <strong>gratis 6-ukers program</strong> som kombinerer
             selvstudie, små gruppediskusjoner, diverse oppgaver og personlig veiledning. I løpet av
             kurset utforskes noen av vår tids største globale utfordringer og hvordan vi kan
             håndtere dem.
