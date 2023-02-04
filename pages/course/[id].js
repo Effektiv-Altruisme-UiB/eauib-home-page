@@ -10,7 +10,14 @@ function Certificate() {
   useEffect(() => {
     window.location.assign(`https://course-platform-ruby.vercel.app/${id}`)
   })
-  return <></>
+  return (
+    <div>
+      Redirect to{' '}
+      <a href="https://course-platform-ruby.vercel.app/${id}">
+        https://course-platform-ruby.vercel.app/{id}
+      </a>
+    </div>
+  )
 }
 
 export default Certificate
