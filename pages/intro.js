@@ -22,14 +22,14 @@ export default function Intro() {
         </div>
         <div className="container py-12">
           <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner i uke 7 (mellom 13. og 16. februar)
+            Første møte på torsdag 23. februar
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button
               className={`w-3/5 rounded-md bg-primary-500 py-4 px-4 font-medium text-white hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black dark:hover:bg-primary-400`}
               type="submit"
             >
-              Meld deg på (frist 10. februar)
+              Meld deg på (frist 21. februar)
             </button>
           </form>
         </div>
@@ -94,14 +94,14 @@ export default function Intro() {
         </div>
         <div className="container py-12">
           <p className="pb-4 text-lg font-bold leading-7 text-black dark:text-white">
-            Neste kurs begynner i uke 7 (mellom 13. og 16. februar)
+            Første møte på torsdag 23. februar
           </p>
           <form target="_blank" action="https://airtable.com/shrVahPsEXzgfoK08">
             <button
               className={`w-3/5 rounded-md bg-primary-500 py-4 px-4 font-medium text-white hover:bg-primary-700 focus:outline-none focus:ring-2 focus:ring-primary-600 focus:ring-offset-2 dark:ring-offset-black dark:hover:bg-primary-400`}
               type="submit"
             >
-              Meld deg på (frist 10. februar)
+              Meld deg på (frist 21. februar)
             </button>
           </form>
         </div>

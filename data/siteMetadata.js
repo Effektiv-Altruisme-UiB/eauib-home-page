@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Effektiv Altruisme UiB',
   author: 'Effektiv Altruisme UiB',
   headerTitle: 'Effektiv Altruisme UiB',
-  description: 'Lær om hva vi har drevet med i det siste',
+  description: 'Hjemmesiden til Effektiv Altruisme UiB',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://eauib.no/',
