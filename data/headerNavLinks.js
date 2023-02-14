@@ -1,6 +1,6 @@
 const headerNavLinks = [
   //{ href: '/blog', title: 'Innlegg' },
-  { href: '/projects', title: 'Aktiviteter' },
+  { href: '/nyheter', title: 'Nyheter' },
   { href: '/calendar', title: 'Kalender' },
   { href: '/about', title: 'Om oss' },
 ]
