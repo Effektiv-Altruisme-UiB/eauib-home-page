@@ -27,10 +27,10 @@ export default function Intro() {
             Som betalende medlem i EA UiB har mann stemmerett på årsmøte hvert vårsemester.
             <br />
             <br />
-            Som betalende medlem i EA UiB trenger man heller ikke å betale for medlemskap i EA Norge
-            i tillegg. Du er fortsatt velkommen til å delta på de fleste av EA UiB sine aktiviteter
-            uten å betale kontingent. Grunnen til at vi har kontingent er hovedsakelig så vi har en
-            enkel måte å juridisk definere medlemmer våre på.
+            Betalende medlemmer i EA UiB trenger heller ikke å betale for medlemskap i EA Norge i
+            tillegg. De fleste av EA UiB sine aktiviteter er fortsatt åpne for alle selv om man ikke
+            har betalt kontingent. Grunnen til at vi har kontingent er hovedsakelig så vi har en
+            tydelig måte å definere medlemmene våre på.
             <br />
             <br />
             For å offisielt regnes som medlem i EA UiB må du betale medlemskontingent hvert
@@ -55,8 +55,7 @@ export default function Intro() {
           Medlemskontingent
         </h2>
         <p className="pb-4 text-lg leading-7 text-black dark:text-white">
-          For øyeblikket er kontingenten vår 200 kr per semester. For å regnes som medlem i EA UiB
-          må du ha betalt kontingenten
+          For øyeblikket er kontingenten vår 200 kr per semester.
           <br />
           <br />
           Dersom du ønsker å betale kontingent for inneværende semester kan du overføre 200 kr til
