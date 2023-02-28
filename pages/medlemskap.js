@@ -7,7 +7,7 @@ export default function Intro() {
   return (
     <>
       <PageSEO
-        title={`Introkurs - ${siteMetadata.author}`}
+        title={`Medlemskap - ${siteMetadata.author}`}
         description={siteMetadata.description}
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
